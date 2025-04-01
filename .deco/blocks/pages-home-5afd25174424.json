@@ -1,0 +1,268 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Global header"
+    },
+    {
+      "__resolveType": "site/sections/Content/Hero.tsx",
+      "title": "A plataforma de ***Retail Media*** com o poder da IA.",
+      "description": "Emponderamos os anunciantes a descobrir - e agir em tempo real -  com novas possibilidades para impulsionar a lucratividade, as vendas incrementais e o crescimento da participação no mercado.",
+      "cta": {
+        "label": "Assistir demo",
+        "href": "#"
+      },
+      "descriptionMobile": "Emponderamos os anunciantes a descobrir  novas possibilidades para impulsionar a lucratividade.",
+      "brands": [
+        {
+          "title": "Essity",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/f62228d7-7274-4ef3-b3e9-b42b31a53769/g94.svg",
+          "width": 116,
+          "height": 29
+        },
+        {
+          "title": "Heineken",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/2862d886-8a8b-4407-837f-19a5e7f927d8/layer1.png",
+          "width": 160,
+          "height": 27.98
+        },
+        {
+          "title": "Nivea",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/78180226-9288-49b3-a24a-b9822436782a/Vector.png",
+          "width": 99,
+          "height": 26
+        },
+        {
+          "title": "Cervejaria Ambev",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/75f25eac-a0fd-425d-bb34-20e7f098959c/layer1-1.png",
+          "width": 86,
+          "height": 34
+        },
+        {
+          "title": "P&G",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6b78ec50-6b42-4547-9bc2-8e5c5af360c6/Vector-1.png",
+          "width": 62,
+          "height": 26
+        },
+        {
+          "title": "Kimberly Clark",
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/ffbed258-40f3-4d7e-a6a4-ae8ace052cf7/g105.png",
+          "width": 197,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/InfoGrid.tsx",
+      "title": "Todos seus anúncios. Uma plataforma.",
+      "description": "Unificando o cenário fragmentado da publicidade.",
+      "grid": [
+        {
+          "title": "Planejamento baseado no comportamento do consumidor",
+          "description": "Analise os relatórios de campanha, defina uma meta de campanha, aloque seu orçamento e liste os produtos para criar uma estratégia de publicidade focada e eficaz.",
+          "image": {
+            "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/0fcffb34-b167-471a-a6b7-e4398ba39f2f/image11.png",
+            "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/38278e0f-4c61-46eb-afd1-63fef6bfccb6/image.png"
+          }
+        },
+        {
+          "title": "Copiloto de IA para campanhas de Retail Media",
+          "description": "Otimize sua campanha com pesquisa de palavras-chave, um planejador de palavras-chave e otimização de listagem de palavras-chave para obter o máximo impacto.",
+          "image": {
+            "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/3183a0a6-827f-407d-a8fc-eb403babcbd2/image22.png",
+            "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/7841e24b-bf92-4f05-80fb-60587c96efc0/image2.png"
+          }
+        },
+        {
+          "title": "Relatórios, Insights e métricas de campanhas",
+          "description": "Acompanhe o desempenho de sua campanha com métricas como gastos, vendas de anúncios, ACOS, ROAS, impressões, compartilhamento de voz e novas marcas.",
+          "image": {
+            "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/defeeac8-200f-447c-af6d-e12db4da4081/image3.png",
+            "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/48ebe76d-5331-43df-9db9-20cf0ecbd143/image33.png"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/Showcase.tsx",
+      "title": "Aumente sua receita com anúncios",
+      "description": "Com apenas um clique, os anunciantes podem executar campanhas de alto desempenho em varejistas de 46 países.",
+      "showcase": [
+        {
+          "logos": [
+            {
+              "title": "media monks",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e236155f-f891-4950-9375-c4fa29ea1928/media-monks-1.png",
+              "width": 101,
+              "height": 30
+            },
+            {
+              "title": "Corebiz",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/dc989642-a16e-49d1-a31e-07d2f38565e7/Group-5851.png",
+              "width": 138,
+              "height": 31
+            },
+            {
+              "title": "Cadastra",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e590dc75-c21c-41f8-bd85-82e14096d148/Cadastra-1.png",
+              "width": 127,
+              "height": 38
+            },
+            {
+              "title": "Dentsu",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/792867d0-856c-4909-945e-d4f11ceb08d6/Dentsu-1.png",
+              "width": 180,
+              "height": 48
+            },
+            {
+              "title": "GS",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/beb8a828-0d66-430e-b01f-dfc0e84e95f8/Camada-1.png",
+              "width": 66,
+              "height": 37
+            },
+            {
+              "title": "Jussi",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/de77df4c-bb4c-400e-93c5-3b4f877241c1/Jussi-1.png",
+              "width": 121,
+              "height": 50
+            },
+            {
+              "title": "Maccarta",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5891294d-e57c-4976-b27e-ec1f06440ed0/macarta-1.png",
+              "width": 121,
+              "height": 56
+            },
+            {
+              "title": "Enext",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6dd06f2c-705e-420c-b602-7ca343bd44fb/enext-1.png",
+              "width": 114,
+              "height": 46
+            },
+            {
+              "title": "Accenture",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/d0beb5b9-1daf-4ff2-9a0d-ae1f05f76708/Accenture-Song-1.png",
+              "width": 284,
+              "height": 34
+            }
+          ],
+          "label": "Agências"
+        },
+        {
+          "logos": [
+            {
+              "title": "media monks",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e236155f-f891-4950-9375-c4fa29ea1928/media-monks-1.png",
+              "width": 101,
+              "height": 30
+            },
+            {
+              "title": "Corebiz",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/dc989642-a16e-49d1-a31e-07d2f38565e7/Group-5851.png",
+              "width": 138,
+              "height": 31
+            },
+            {
+              "title": "Cadastra",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e590dc75-c21c-41f8-bd85-82e14096d148/Cadastra-1.png",
+              "width": 127,
+              "height": 38
+            },
+            {
+              "title": "Dentsu",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/792867d0-856c-4909-945e-d4f11ceb08d6/Dentsu-1.png",
+              "width": 180,
+              "height": 48
+            },
+            {
+              "title": "GS",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/beb8a828-0d66-430e-b01f-dfc0e84e95f8/Camada-1.png",
+              "width": 66,
+              "height": 37
+            },
+            {
+              "title": "Jussi",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/de77df4c-bb4c-400e-93c5-3b4f877241c1/Jussi-1.png",
+              "width": 121,
+              "height": 50
+            },
+            {
+              "title": "Maccarta",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5891294d-e57c-4976-b27e-ec1f06440ed0/macarta-1.png",
+              "width": 121,
+              "height": 56
+            },
+            {
+              "title": "Enext",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6dd06f2c-705e-420c-b602-7ca343bd44fb/enext-1.png",
+              "width": 114,
+              "height": 46
+            },
+            {
+              "title": "Accenture",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/d0beb5b9-1daf-4ff2-9a0d-ae1f05f76708/Accenture-Song-1.png",
+              "width": 284,
+              "height": 34
+            }
+          ],
+          "label": "PubliSHERS"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/BigNumbers.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Contact/ContactUs.tsx",
+      "demo": {
+        "title": "VTEX AdNetwork",
+        "description": "Potencialize sua receita com poucos cliques. Conheça nossa plataforma. ",
+        "textBottom": "Descubra novos tipos de anúncios e utilize canais de aplicativos mobile para expandir o alcance do seu público. Aproveite os relatórios de desempenho e as últimas tendências para tomar decisões baseadas em dados e aprimorar sua estratégia. ",
+        "cta": {
+          "label": "Agende uma demo"
+        },
+        "bg": {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/c3768822-ff76-43ab-975c-d45e33b78c46/52fc15111b52ec6d0dad6c8086744dd0.png",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/c3768822-ff76-43ab-975c-d45e33b78c46/52fc15111b52ec6d0dad6c8086744dd0.png"
+        },
+        "video": {
+          "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5ebc80f6-80ae-4da9-bb54-341cf9a06906/video-ad-network.mp4",
+          "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5ebc80f6-80ae-4da9-bb54-341cf9a06906/video-ad-network.mp4"
+        }
+      },
+      "form": {
+        "firstName": "Nome*",
+        "lastName": "Sobrenome*",
+        "job": "Empresa*",
+        "demoSelect": [
+          "Teste",
+          "Teste 2"
+        ],
+        "email": "Email Corporativo*",
+        "checkboxText": "Ao clicar no checkbox, você autoriza a VTEX e empresas do seu grupo a realizar contato via e-mail, telefone ou outros meios, para o fim exclusivo de apresentar conteúdo, produtos e serviços relacionados a ecommerce/comércio digital.",
+        "privacyTerms": "By sending you understand and agree to the [Privacy Terms.](https://vtex.com/us-en/trust/)",
+        "title": "Agende uma conversa"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/BannerVideo.tsx",
+      "title": "As maiores marcas do mundo já operam com a VTEX Ads.",
+      "placeholderVideo": {
+        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/949aadc2-b6db-4ba5-9d0a-65871e1e6516/Rectangle-23.png",
+        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6fbc427b-04cc-456c-9d3e-6f7457fa71e4/Rectangle-23-(1).png"
+      },
+      "video": {
+        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5ebc80f6-80ae-4da9-bb54-341cf9a06906/video-ad-network.mp4",
+        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5ebc80f6-80ae-4da9-bb54-341cf9a06906/video-ad-network.mp4"
+      },
+      "description": "“Sport Store alcançou um impressionante aumento de R$12M em ROAS ao otimizar campanhas e estratégias de anúncios.”"
+    },
+    {
+      "__resolveType": "Global Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

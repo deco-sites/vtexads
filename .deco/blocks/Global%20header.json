@@ -1,0 +1,296 @@
+{
+  "__resolveType": "site/sections/Header/HeaderMain.tsx",
+  "cta": {
+    "text": "Seja Um parceiro",
+    "href": "/partner-program"
+  },
+  "menu": [
+    {
+      "content": [
+        {
+          "content": {
+            "items": [
+              {
+                "icon": "ShoppingCart",
+                "label": "Retail media",
+                "href": "#"
+              },
+              {
+                "icon": "ShoppingCart",
+                "label": "Collaborative Brand Experience",
+                "href": "#"
+              },
+              {
+                "icon": "ShoppingCart",
+                "label": "Market Intelligence",
+                "href": "#"
+              }
+            ],
+            "type": "ContentListHeadLinks"
+          },
+          "titleContent": "Produtos",
+          "contentList": {
+            "items": []
+          }
+        },
+        {
+          "content": {
+            "items": [
+              {
+                "links": [],
+                "label": "Banner Display",
+                "href": "#"
+              },
+              {
+                "links": [],
+                "label": "Video display",
+                "href": "#"
+              },
+              {
+                "links": [],
+                "label": "Sponsored Brand Page",
+                "href": "#"
+              },
+              {
+                "links": [
+                  {
+                    "label": "Recommendation shelf",
+                    "href": "#"
+                  },
+                  {
+                    "label": "Search and Navigation",
+                    "href": "#"
+                  },
+                  {
+                    "label": "Search Keywords"
+                  }
+                ],
+                "label": "Product Listing"
+              },
+              {
+                "links": [
+                  {
+                    "label": "Web"
+                  },
+                  {
+                    "label": "Mobile App"
+                  },
+                  {
+                    "label": "Televendas"
+                  },
+                  {
+                    "label": "Messaging"
+                  }
+                ],
+                "label": "Multichannel"
+              },
+              {
+                "links": [
+                  {
+                    "label": "Endless Aisle"
+                  },
+                  {
+                    "label": "PDV"
+                  },
+                  {
+                    "label": "Screen"
+                  }
+                ],
+                "label": "Physical"
+              }
+            ],
+            "type": "ContentListHeadLinks"
+          },
+          "titleContent": "Media KIT"
+        },
+        {
+          "content": {
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/07d09ef5-e175-489f-b0e5-e61bbaff3226/Rectangle-2.png",
+            "title": "The VTEX 24' spring release",
+            "description": "Leverage AI and Data to propel your business",
+            "label": "Anúncios",
+            "type": "ContentImage",
+            "href": "https://vision.vtex.com/spring-24/"
+          },
+          "titleContent": "Anúncios"
+        }
+      ],
+      "title": "Products"
+    },
+    {
+      "content": [
+        {
+          "content": {
+            "items": [
+              {
+                "brands": [
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  }
+                ],
+                "label": "Publishers"
+              },
+              {
+                "brands": [
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  },
+                  {
+                    "alt": "prezunic",
+                    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/4724f3a5-3008-4ac9-8aa0-77b6909da919/Prezunic-1.png",
+                    "width": "102",
+                    "height": "34"
+                  }
+                ],
+                "label": "Partners"
+              }
+            ],
+            "type": "ContentListBrands"
+          },
+          "titleContent": "Network"
+        }
+      ],
+      "title": "Network"
+    },
+    {
+      "content": [
+        {
+          "content": {
+            "items": [
+              {
+                "items": [],
+                "label": "Displaying VTEX Ad Network ads in your store (Beta)",
+                "title": "Displaying VTEX Ad Network ads in your store (Beta",
+                "content": "With [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), VTEX stores can offer ad space in their stores for brands to promote products. VTEX will select ads for products already in your catalog, and your store will receive a fee for each ad click in your store."
+              },
+              {
+                "title": "Advertising with VTEX Ad Network (Beta)",
+                "content": "VTEX Ad Network (Beta) allows you to advertise your products on VTEX stores that have them listed in their catalog."
+              },
+              {
+                "title": "Reports for advertisers on VTEX Ad Network (Beta)",
+                "content": "VTEX Ad Network (Beta) allows you to advertise your products on VTEX stores that have them listed in their catalog."
+              }
+            ],
+            "type": "ContentListInfo"
+          },
+          "titleContent": "Docs"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "content": [],
+      "title": "Partner Program",
+      "href": "/partner-program"
+    }
+  ]
+}

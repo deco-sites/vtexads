@@ -1,0 +1,212 @@
+{
+  "name": "Partner program",
+  "path": "/partner-program",
+  "sections": [
+    {
+      "__resolveType": "Global header"
+    },
+    {
+      "__resolveType": "site/sections/Content/HeroImage.tsx",
+      "titleSup": "Mais projetos. Mais receita. Mais visibilidade.",
+      "title": "Aumente a sua receita sendo um dos nossos parceiros.",
+      "description": "Acesse conteúdos exclusivos para parceiros, conquiste novos clientes e aumente suas vendas.",
+      "cta": {
+        "label": "Seja um parceiro",
+        "href": "#form-partner"
+      },
+      "banner": {
+        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/50794b10-faec-4eb0-bee8-94cf6ffd9510/Group-5850.png",
+        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/50794b10-faec-4eb0-bee8-94cf6ffd9510/Group-5850.png"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/InfoCards.tsx",
+      "title": "Nosso ecossistema conta com diversas categorias de parceiros:",
+      "cards": [
+        {
+          "description": "Promova seus produtos, serviços e marca usando recursos do nosso sistema para impactar milhares de consumidores em toda sua jornada.",
+          "icon": "Cursor",
+          "title": "Anunciante"
+        },
+        {
+          "icon": "Globe",
+          "title": "Agência",
+          "description": "Revenda e implemente as soluções VTEX para sua base de clientes. Descubra mais clientes em potencial e fique por dentro de todas as novas tendências.",
+          "highlighted": true
+        },
+        {
+          "icon": "Bag",
+          "title": "Indústria",
+          "description": "Potencialize as vendas de nossos lojistas aumentando sua exposição no mercado e ampliando seus canais de venda."
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/Showpartners.tsx",
+      "title": "Aumente sua receita com anúncios",
+      "description": " ",
+      "showcase": [
+        {
+          "logos": [
+            {
+              "title": "media monks",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e236155f-f891-4950-9375-c4fa29ea1928/media-monks-1.png",
+              "width": 101,
+              "height": 30
+            },
+            {
+              "title": "Corebiz",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/dc989642-a16e-49d1-a31e-07d2f38565e7/Group-5851.png",
+              "width": 138,
+              "height": 31
+            },
+            {
+              "title": "Cadastra",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e590dc75-c21c-41f8-bd85-82e14096d148/Cadastra-1.png",
+              "width": 127,
+              "height": 38
+            },
+            {
+              "title": "Dentsu",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/792867d0-856c-4909-945e-d4f11ceb08d6/Dentsu-1.png",
+              "width": 180,
+              "height": 48
+            },
+            {
+              "title": "GS",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/beb8a828-0d66-430e-b01f-dfc0e84e95f8/Camada-1.png",
+              "width": 66,
+              "height": 37
+            },
+            {
+              "title": "Jussi",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/de77df4c-bb4c-400e-93c5-3b4f877241c1/Jussi-1.png",
+              "width": 121,
+              "height": 50
+            },
+            {
+              "title": "Maccarta",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5891294d-e57c-4976-b27e-ec1f06440ed0/macarta-1.png",
+              "width": 121,
+              "height": 56
+            },
+            {
+              "title": "Enext",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6dd06f2c-705e-420c-b602-7ca343bd44fb/enext-1.png",
+              "width": 114,
+              "height": 46
+            },
+            {
+              "title": "Accenture",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/d0beb5b9-1daf-4ff2-9a0d-ae1f05f76708/Accenture-Song-1.png",
+              "width": 284,
+              "height": 34
+            }
+          ],
+          "label": "Agências de mídia"
+        },
+        {
+          "logos": [
+            {
+              "title": "media monks",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e236155f-f891-4950-9375-c4fa29ea1928/media-monks-1.png",
+              "width": 101,
+              "height": 30
+            },
+            {
+              "title": "Corebiz",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/dc989642-a16e-49d1-a31e-07d2f38565e7/Group-5851.png",
+              "width": 138,
+              "height": 31
+            },
+            {
+              "title": "Cadastra",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/e590dc75-c21c-41f8-bd85-82e14096d148/Cadastra-1.png",
+              "width": 127,
+              "height": 38
+            },
+            {
+              "title": "Dentsu",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/792867d0-856c-4909-945e-d4f11ceb08d6/Dentsu-1.png",
+              "width": 180,
+              "height": 48
+            },
+            {
+              "title": "GS",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/beb8a828-0d66-430e-b01f-dfc0e84e95f8/Camada-1.png",
+              "width": 66,
+              "height": 37
+            },
+            {
+              "title": "Jussi",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/de77df4c-bb4c-400e-93c5-3b4f877241c1/Jussi-1.png",
+              "width": 121,
+              "height": 50
+            },
+            {
+              "title": "Maccarta",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/5891294d-e57c-4976-b27e-ec1f06440ed0/macarta-1.png",
+              "width": 121,
+              "height": 56
+            },
+            {
+              "title": "Enext",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/6dd06f2c-705e-420c-b602-7ca343bd44fb/enext-1.png",
+              "width": 114,
+              "height": 46
+            },
+            {
+              "title": "Accenture",
+              "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/d0beb5b9-1daf-4ff2-9a0d-ae1f05f76708/Accenture-Song-1.png",
+              "width": 284,
+              "height": 34
+            }
+          ],
+          "label": "Agências de mídia"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/Info.tsx",
+      "title": "Os benefícios de ser um parceiro VTEX",
+      "description": "Faça parte de uma comunidade global reconhecida por sua excelência em operações de e-commerce.",
+      "banner": {
+        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/a2fe342b-4fda-4e7d-a047-a2f11517b9e4/diverse-business-team-using-laptop-minimal.png",
+        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vtexadsnetwork/b21eb1e1-ab09-419a-aaf2-3a6af470cc3f/diverse-business-team-using-laptop-minimal-(1).png",
+        "alt": "diverse buniness team using lapton minimal"
+      },
+      "texts": [
+        {
+          "title": "Visibilidade",
+          "text": "Receba o selo VTEX Partner para utilizar em seu site e tenha exposição no VTEX Network, um portal de geração de negócios que conecta você ao mercado de e-commerce."
+        },
+        {
+          "title": "Eventos",
+          "text": "Tenha benefícios exclusivos nos eventos da VTEX, como VTEX DAY, DCX e VTEX Training Week, além de acesso a treinamentos exclusivos para parceiros."
+        },
+        {
+          "title": "Suporte e Sucesso",
+          "text": "Conte com o apoio de um time dedicado a resolver suas dúvidas e fazer seu negócio crescer com a VTEX."
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Contact/BecomeAPartner.tsx",
+      "title": "Torne-se um parceiro",
+      "firstName": "Nome*",
+      "lastName": "Sobrenome*",
+      "email": "E-mail corporativo*",
+      "checkboxText": "Ao clicar no checkbox, você autoriza a VTEX e empresas do seu grupo a realizar contato via e-mail, telefone ou outros meios, para o fim exclusivo de apresentar conteúdo, produtos e serviços relacionados a ecommerce/comércio digital.",
+      "cellphone": "Telefone",
+      "partnership": "Qual parceria você busca?",
+      "privacyTerms": "By sending you understand and agree to the [Privacy Terms.](https://vtex.com/us-en/trust/)"
+    },
+    {
+      "__resolveType": "Global Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
